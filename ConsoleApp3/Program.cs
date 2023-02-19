@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("N\tN^2\tN^3\tN^2+N^3");
 int num = 10;
+Console.WriteLine("N\tN^2\tN^3\tN^2+N^3");
 while (num != 60) 
 {
     double n2 = Math.Pow(num, 2);
